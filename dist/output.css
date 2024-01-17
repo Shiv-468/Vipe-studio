@@ -1535,6 +1535,14 @@ video {
   line-height: 76.32px;
 }
 
+.leading-3{
+  line-height: .75rem;
+}
+
+.leading-\[40px\]{
+  line-height: 40px;
+}
+
 .text-\[\#313131\]{
   --tw-text-opacity: 1;
   color: rgb(49 49 49 / var(--tw-text-opacity));
@@ -1881,6 +1889,10 @@ video {
 
   .sm\:text-\[48px\]{
     font-size: 48px;
+  }
+
+  .sm\:leading-\[76\.32px\]{
+    line-height: 76.32px;
   }
 }
 
