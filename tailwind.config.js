@@ -4,8 +4,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'Gilroy-Light': ('Gilroy-Light'), 
-        'Konexy': ['"Konexy"', "sans-serif"],
+         
+        'Konexy': ['"Konexy"', sans-serif],
+        'Gilroy-Light': ('Gilroy-Light'),
         'Jost': ('Jost', 'sans-serif'),
         'Inter': ('Inter'),
       },
