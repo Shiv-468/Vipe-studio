@@ -1409,7 +1409,7 @@ video {
 }
 
 .font-Konexy{
-  font-family: "Konexy", sans-serif;
+  font-family: "KonexyPersonalUse", sans-serif;
 }
 
 .text-\[14px\]{
@@ -1589,7 +1589,7 @@ video {
 }
 
 @font-face {
-  font-family: 'Konexy';
+  font-family: 'KonexyPersonalUse';
 
   src: url(../dist/fonts/KonexyPersonalUse.otf);
 }
