@@ -5,9 +5,9 @@ module.exports = {
     extend: {
       fontFamily: {
          
-        'Konexy': ['"KonexyPersonalUse"', 'sans-serif'],
+        'Konexy': ['"KonexyPersonalUse", sans-serif'],
         'Gilroy-Light': ('Gilroy-Light'),
-        'Jost': ('Jost', 'sans-serif'),
+        'Jost': ('"Jost", sans-serif'),
         'Inter': ('Inter'),
       },
       boxShadow: {
