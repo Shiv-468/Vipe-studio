@@ -1595,7 +1595,13 @@ video {
 @font-face {
   font-family: 'Gilroy-Light';
 
-  src: url('../dist/fonts/Radomir\ Tinkov\ -\ Gilroy-Light.otf');
+  src: url('../dist/fonts/Gilroy-Light.otf');
+}
+
+@font-face {
+  font-family: 'Gilroy-Bold';
+
+  src: url('../dist/fonts/Gilroy-ExtraBold.otf');
 }
 
 .menulist.show {
