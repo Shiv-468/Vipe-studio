@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Jost:wght@400;500&display=swap');
-
+@import url('../dist/fonts/KonexyPersonalUse.otf');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
