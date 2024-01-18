@@ -3,10 +3,14 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-    font-family: 'KonexyPersonalUse';
-    src: url('../dist/fonts/KonexyPersonalUse.otf');
+
+@layer base {
+    @font-face {
+        font-family: 'KonexyPersonalUse';
+        src: url('../dist/fonts/KonexyPersonalUse.otf');
+    }
 }
+
 @font-face {
     font-family: 'Gilroy-Light';
     src: url('../dist/fonts/Gilroy-Light.otf');
