@@ -1604,6 +1604,10 @@ video {
   src: url('../dist/fonts/Gilroy-ExtraBold.otf');
 }
 
+.font_konexy{
+  font-family: "KonexyPersonalUse";
+}
+
 .menulist.show {
   right: 0;
 }
