@@ -12,6 +12,14 @@
 }
 
 @font-face {
+    font-family: 'Fontleroy-Brown';
+    src: url('../dist/fonts/FontleroyBrownNF.otf');
+}
+@font-face {
+    font-family: 'fontbrown-2';
+    src: url('../dist/fonts/FontleroyBrownNF.ttf');
+}
+@font-face {
     font-family: 'Gilroy-Light';
     src: url('../dist/fonts/Gilroy-Light.otf');
 }
